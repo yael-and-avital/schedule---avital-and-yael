@@ -1,0 +1,20 @@
+{
+  "name": "schedule---avital-and-yael",
+  "version": "1.0.0",
+  "description": "A To-Do scheduling app with advanced features:\r - 🗓️ Create tasks with date and time.\r - 🔔 Notifications via email and in-app pop-ups.\r - 🏷️ Task categories and events.\r - 📝 Free-form notes and task completion status.\r - 🔁 Recurring tasks.\r - 😎 Ability to dismiss notifications using emojis.\r - 🥗 Daily calorie calculation with AI integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yael-and-avital/schedule---avital-and-yael.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yael-and-avital/schedule---avital-and-yael/issues"
+  },
+  "homepage": "https://github.com/yael-and-avital/schedule---avital-and-yael#readme"
+}
