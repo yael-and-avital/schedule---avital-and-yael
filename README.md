@@ -1,7 +1,9 @@
 # 📝 To-Do App with Notifications and AI Calorie Calculator
 
 ## 📌 Project Description
+
 A To-Do scheduling app with advanced features:
+
 - 🗓️ Create tasks with date and time.
 - 🔔 Notifications via email and in-app pop-ups.
 - 🏷️ Task categories and events.
@@ -15,6 +17,7 @@ A To-Do scheduling app with advanced features:
 ## 📅 Project Breakdown by Weeks
 
 ### Week 2 – App Basics and Tasks 🏗️
+
 - 👤 Create user registration and login screens.
 - 🗂️ Create a basic task model in the database (name, date, time).
 - ✏️ CRUD functionality for tasks: create, edit, delete, and display in a list.
@@ -24,6 +27,7 @@ A To-Do scheduling app with advanced features:
 ---
 
 ### Week 3 – Notifications and Email ✉️
+
 - 📧 Add the ability to send email notifications when a task is due.
 - 🔔 Add in-app pop-up / toast notifications in real-time.
 - ✅ Test scheduled notifications.
@@ -33,6 +37,7 @@ A To-Do scheduling app with advanced features:
 ---
 
 ### Week 4 – Task Categories and Events 🏷️
+
 - 🎉 Create categories: Birthday, Meetings, Other.
 - 🔍 Ability to filter tasks by category.
 - 🎨 Add color/icon for each category.
@@ -42,6 +47,7 @@ A To-Do scheduling app with advanced features:
 ---
 
 ### Week 5 – Notes and Task Status 📝
+
 - 🗒️ Create free-form notes for the user.
 - ✔️ Add the ability to mark a task as completed.
 - 💾 Store task status in the database.
@@ -51,6 +57,7 @@ A To-Do scheduling app with advanced features:
 ---
 
 ### Week 6 – Recurring Tasks and Emoji Dismiss 🔁
+
 - 🔄 Allow creation of recurring tasks (daily/weekly/monthly).
 - 😃 Add the option to dismiss notifications using an emoji chosen by the user.
 
@@ -59,6 +66,7 @@ A To-Do scheduling app with advanced features:
 ---
 
 ### Week 7 – Calorie Calculation (AI) 🥗
+
 - 🍎 Allow users to input food and products.
 - 🤖 Integrate with an API or AI model for calorie calculation.
 - 📊 Display a daily calorie summary to the user.
@@ -68,6 +76,7 @@ A To-Do scheduling app with advanced features:
 ---
 
 ### Week 8 – Testing, UI, and Improvements 🛠️
+
 - 🎨 Improve UI: colors, icons, and usability.
 - 🧪 Functional testing of all features.
 - 🐞 Bug fixes and minor improvements.
